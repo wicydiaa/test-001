@@ -20,5 +20,6 @@
         "Website": "https://store.kde.org/p/2201084/"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
-    "X-Plasma-MainScript": "ui/main.qml"
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-ConfigurationGeneral": "contents/ui/ConfigGeneral.qml"
 }
